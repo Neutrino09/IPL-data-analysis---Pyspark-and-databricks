@@ -43,9 +43,6 @@ The project involves the following analyses and visualizations:
 3. Run the Jupyter Notebook with the IPL data analysis code in your Python environment.
 4. Follow the code to perform data processing, analysis, and visualization of the IPL dataset.
 
-## Contact Information
-
-If you have any questions, suggestions, or feedback about this project, feel free to reach out to me at [your-email@example.com].
 
 ## References
 
