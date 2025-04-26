@@ -9,7 +9,6 @@ Welcome to the IPL Data Analysis project, where data from the Indian Premier Lea
 - [Analysis and Visualizations](#analysis-and-visualizations)
 - [Dependencies and Requirements](#dependencies-and-requirements)
 - [How to Run the Project](#how-to-run-the-project)
-- [Contact Information](#contact-information)
 - [References](#references)
 
 ## Overview
